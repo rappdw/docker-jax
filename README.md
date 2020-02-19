@@ -1,2 +1,2 @@
 # docker-jax
-Docker image with JAX available
+Docker image for [JAX](https://github.com/google/jax)
